@@ -1,0 +1,97 @@
+problem,group,user,logs,units,annotation,unit branch,session branch,Parallel Coordinate Plot,Scatter Plot,Scatterplot Matrix,Accuracy,restore,time,ses_name,confidence
+Problem 1,B,S2,48,5,1,3,0,5,0,0,1,0,0:03:14,Problem1,6
+Problem 2,C,S2,109,9,8,6,1,9,0,0,1,0,0:04:14,Problem2,6
+Problem 3,C,S2,67,9,2,6,1,9,0,0,1,0,0:02:36,Problem3,6
+Problem 1,A,S4,50,2,1,0,0,1,1,0,1,0,0:04:36,Problem1,6
+Problem 2,A,S4,38,2,1,0,0,1,1,0,1,0,0:05:19,Problem2,6
+Problem 3,A,S4,26,2,1,0,0,1,1,0,1,0,0:02:26,Problem3,5
+Problem 1,A,S5,103,2,1,0,0,1,0,1,1,0,0:03:34,problem3,6
+Problem 2,A,S5,50,3,1,0,0,1,1,1,1,0,0:03:35,problem2,6
+Problem 3,A,S5,15,1,1,0,0,1,0,0,1,0,0:01:47,problem5,6
+Problem 1,A,S6,68,1,1,0,0,1,0,0,1,0,0:03:02,Problem1,7
+Problem 2,A,S6,59,1,3,0,0,1,0,0,1,0,0:05:54,Problem2,7
+Problem 3,A,S6,20,1,1,0,0,1,0,0,1,0,0:01:02,Problem3,7
+Problem 1,A,S8,124,2,1,0,0,1,1,0,1,0,0:02:29,Problem1,7
+Problem 2,A,S8,28,1,5,0,0,1,0,0,1,0,0:02:18,Problem2,7
+Problem 3,A,S8,117,1,2,0,0,1,0,0,1,0,0:01:58,Problem3,7
+Problem 1,A,S9,51,1,1,0,0,1,0,0,0,0,0:04:00,problem1,6
+Problem 2,C,S9,53,4,1,0,1,4,0,0,1,0,0:04:48,Problem2,6
+Problem 3,A,S9,11,1,1,0,0,1,0,0,1,0,0:01:56,Problem3,6
+Problem 1,B,S10,122,4,2,1,0,2,1,1,1,0,0:05:03,Problem1,6
+Problem 2,B,S10,62,6,2,3,0,5,1,0,1,0,0:05:51,Problem2,6
+Problem 3,B,S10,14,2,1,1,0,2,0,0,1,0,0:02:07,Problem3,6
+Problem 1,A,S11,109,1,1,0,0,1,0,0,1,0,0:03:07,problem1,7
+Problem 2,A,S11,121,1,5,0,0,1,0,0,1,0,0:05:45,problem2,7
+Problem 3,A,S11,95,2,1,0,0,1,0,1,1,0,0:03:21,problem3,7
+Problem 1,A,S12,73,5,1,0,0,5,0,0,1,0,0:03:29,Problem1,7
+Problem 2,A,S12,34,2,1,0,0,1,1,0,1,0,0:03:46,Problem2,7
+Problem 3,A,S12,106,3,1,0,0,2,1,0,1,0,0:03:29,Problem3,7
+Problem 1,A,S13,51,3,1,0,0,2,0,1,1,0,0:03:01,Problem1,7
+Problem 2,A,S13,14,1,1,0,0,1,0,0,1,0,0:02:27,Problem2,7
+Problem 3,A,S13,24,1,1,0,0,1,0,0,1,0,0:02:06,Problem3,7
+Problem 1,A,S14,207,1,1,0,0,1,0,0,1,0,0:07:17,Problem1,7
+Problem 2,C,S14,15,1,1,0,1,1,0,0,1,0,0:02:00,Problem2,7
+Problem 3,C,S14,27,1,1,0,1,1,0,0,1,0,0:02:19,Problem3,7
+Problem 1,D,S15,67,1,1,0,0,1,0,0,1,10,0:04:05,Problem1,7
+Problem 2,D,S15,46,1,1,0,0,1,0,0,1,7,0:02:40,Problem2,6
+Problem 3,A,S15,25,1,1,0,0,1,0,0,1,0,0:02:00,Problem3,6
+Problem 1,A,S16,119,2,1,0,0,1,1,0,1,0,0:03:11,Problem 1,7
+Problem 2,A,S16,293,1,5,0,0,1,0,0,0,0,0:07:29,Problem 2,7
+Problem 3,A,S16,19,1,2,0,0,1,0,0,0,0,0:02:02,Problem 3,7
+Problem 1,B,S18,50,2,2,1,0,2,0,0,1,0,0:02:22,Problem1,7
+Problem 2,C,S18,99,2,2,1,1,2,0,0,1,0,0:06:21,Problem 2,7
+Problem 3,C,S18,79,2,1,1,1,2,0,0,1,0,0:02:12,Problem3,7
+Problem 1,A,S19,82,1,1,0,0,1,0,0,1,0,0:02:09,Problem1,7
+Problem 2,A,S19,637,3,3,0,0,3,0,0,1,0,0:06:51,Problem2,7
+Problem 3,A,S19,162,1,1,0,0,1,0,0,1,0,0:02:18,Problem3,7
+Problem 1,B,S20,72,5,1,4,0,5,0,0,1,0,0:03:36,Problem1,6
+Problem 2,B,S20,78,4,1,3,0,4,0,0,1,0,0:03:51,Problem2,6
+Problem 3,B,S20,72,5,1,3,0,5,0,0,1,0,0:02:42,Problem3,6
+Problem 1,A,S21,92,1,6,0,0,1,0,0,1,0,0:05:30,Problem1,7
+Problem 2,A,S21,65,3,6,0,0,3,0,0,1,0,0:04:17,Problem2,7
+Problem 3,A,S21,159,2,5,0,0,2,0,0,1,0,0:03:25,Problem3,7
+Problem 1,A,S22,88,2,1,0,0,1,1,0,1,0,0:03:20,Problem1,6
+Problem 2,A,S22,89,5,5,0,0,1,4,0,1,0,0:06:27,Problem2,6
+Problem 3,A,S22,131,2,2,0,0,1,1,0,1,0,0:04:25,Problem3,6
+Problem 1,B,S23,210,5,3,3,0,4,0,1,1,0,0:08:17,Problem1,7
+Problem 2,B,S23,84,6,5,4,0,5,0,1,1,0,0:04:16,Problem3,7
+Problem 3,B,S23,100,5,5,3,0,4,0,1,1,0,0:04:50,Problem2,7
+Problem 1,A,S24,181,1,4,0,0,1,0,0,1,0,0:02:57,Problem1,7
+Problem 2,A,S24,131,1,5,0,0,1,0,0,1,0,0:04:45,Problem2,7
+Problem 3,A,S24,176,1,2,0,0,1,0,0,1,0,0:02:08,Problem3,7
+Problem 1,B,S25,44,5,1,4,0,5,0,0,0,0,0:02:58,Problem1,7
+Problem 2,B,S25,69,5,2,4,0,5,0,0,1,0,0:04:47,Problem2,7
+Problem 3,A,S25,15,1,1,0,0,1,0,0,1,0,0:01:29,Problem3,7
+Problem 1,A,S26,146,1,1,0,0,1,0,0,1,0,0:03:29,Problem1,7
+Problem 2,C,S26,22,1,6,0,2,1,0,0,1,0,0:03:26,Problem2,7
+Problem 3,C,S26,28,1,5,0,1,1,0,0,1,0,0:03:01,Problem3,7
+Problem 1,A,S27,57,2,1,0,0,1,0,1,1,0,0:01:34,Problem1,7
+Problem 2,A,S27,282,1,1,0,0,1,0,0,1,0,0:03:58,Problem2,7
+Problem 3,A,S27,156,3,1,0,0,1,2,0,1,0,0:02:33,Problem3,7
+Problem 1,A,S28,375,3,1,0,0,1,2,0,1,0,0:08:29,Problem1,7
+Problem 2,B,S28,31,5,1,4,0,5,0,0,1,0,0:04:09,Problem2,7
+Problem 3,A,S28,211,3,2,0,0,1,2,0,0,0,0:06:12,Problem3,6
+Problem 1,A,S29,156,2,2,0,0,1,1,0,1,0,0:07:07,Problem1,6
+Problem 2,A,S29,272,2,1,0,0,1,1,0,0,0,0:03:44,Problem2,6
+Problem 3,A,S29,96,1,1,0,0,1,0,0,1,0,0:01:22,Problem3,7
+Problem 1,A,S30,40,1,2,0,0,1,0,0,1,0,0:03:56,Problem1,7
+Problem 2,A,S30,16,1,1,0,0,1,0,0,1,0,0:01:56,Problem2,7
+Problem 3,A,S30,12,1,1,0,0,1,0,0,1,0,0:01:31,Problem3,7
+Problem 1,A,S31,127,3,1,0,0,1,1,1,1,0,0:04:38,PROBLEM1,7
+Problem 2,A,S31,276,1,1,0,0,0,1,0,1,0,0:05:12,PROBLEM2,6
+Problem 3,A,S31,267,1,1,0,0,0,1,0,1,0,0:03:54,PROBLEM3,6
+Problem 1,B,S32,69,4,1,2,0,4,0,0,1,0,0:02:18,Problem 1 ,7
+Problem 2,C,S32,37,5,1,2,1,5,0,0,1,0,0:01:58,Problem 2,6
+Problem 3,C,S32,32,5,1,2,1,5,0,0,1,0,0:01:55,Problem 3,7
+Problem 1,A,S33,127,1,2,0,0,1,0,0,1,0,0:03:01,Problem1,7
+Problem 2,A,S33,19,1,3,0,0,1,0,0,1,0,0:02:27,Problem2,7
+Problem 3,A,S33,20,1,1,0,0,1,0,0,1,0,0:01:32,Problem3,7
+Problem 1,A,S34,68,2,1,0,0,1,0,1,1,1,0:07:53,Problem2,7
+Problem 2,C,S34,89,3,1,0,1,2,0,1,1,1,0:13:09,Problem2,6
+Problem 3,A,S34,184,2,1,0,0,1,1,0,1,1,0:44:05,Problem3,5
+Problem 1,B,S36,102,7,2,6,0,7,0,0,1,0,0:05:18,problem1,6
+Problem 2,B,S36,36,5,9,4,0,5,0,0,1,0,0:06:15,problem2,6
+Problem 3,B,S36,41,2,4,1,0,2,0,0,1,0,0:02:03,problem3,6
+Problem 1,A,S37,20,1,1,0,0,1,0,0,0,0,0:01:52,PROBLEM1,3
+Problem 2,A,S37,27,1,1,0,0,1,0,0,1,0,0:02:20,PROBLEM2,6
+Problem 3,C,S37,7,1,1,0,1,1,0,0,1,0,0:01:56,PROBLEM2,6
